@@ -1,0 +1,6 @@
+github.com/PeerXu/errors-go v1.0.0 h1:PIrQEyeulheSdwharNg/LcY+kWHRBXXZzdAh6kRSdPo=
+github.com/PeerXu/errors-go v1.0.0/go.mod h1:F0YqJVZI5654GDZf77MCwzC3gKKjENCtUPGjqGE4CuE=
+github.com/PeerXu/option-go v1.1.0 h1:TFsY6jkM2HPyv7JxAjKDl8GextrTAXmx2noEOMoAWhE=
+github.com/PeerXu/option-go v1.1.0/go.mod h1:LKnZOF8V4m2Y+z7FZ0UZLqqbjaqGsn7GsYC+5w00q5k=
+github.com/jinzhu/copier v0.4.0 h1:w3ciUoD19shMCRargcpm0cm91ytaBhDvuRpz1ODO/U8=
+github.com/jinzhu/copier v0.4.0/go.mod h1:DfbEm0FYsaqBcKcFuvmOZb218JkPGtvSHsKg8S8hyyg=
