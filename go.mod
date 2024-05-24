@@ -1,4 +1,4 @@
-module github.com/PeerXu/registerer
+module github.com/PeerXu/registerer-go
 
 go 1.22.0
 
